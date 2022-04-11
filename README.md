@@ -1,3 +1,4 @@
 # ConnectGame
-A game based on TicTacToe called Connect.
+A basic game based on TicTacToe called Connect.
+
 
